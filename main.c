@@ -1,4 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
+
 int main(){
-    printf("hello world");
+    printf("Kdm ah jmr");
+    printf("Hello world");
+
+    return 0;
 }
