@@ -1,0 +1,15 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+a.out
+pos_system
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Data files generated at runtime
+*.dat
